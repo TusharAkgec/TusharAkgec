@@ -14,16 +14,9 @@
   <a href="https://github.com/TusharAkgec">GitHub</a>
 </p>
 
-I build clean, responsive user interfaces with **React.js**, **JavaScript**, and modern frontend tools. During my web developer internship, I improved UI rendering speed by about **30%** using memoization, lazy loading, and dynamic imports. I also co-authored an IEEE-published research paper on multimodal disease classification.
+I build clean, responsive user interfaces with **React.js** and **JavaScript**. During my web developer internship, I improved UI rendering speed by about **30%** using memoization, lazy loading, and dynamic imports. I also co-authored an IEEE-published research paper on multimodal disease classification.
 
 I'm looking for **Frontend / React Developer** roles.
-
-## 🌱 Currently
-
-- Building responsive React applications
-- Improving my TypeScript and system design skills
-- Learning testing with Jest and React Testing Library
-- Looking for Frontend / React Developer opportunities
 
 ## 🛠 Skills
 
@@ -37,13 +30,14 @@ I'm looking for **Frontend / React Developer** roles.
 - **Databases:** SQL
 - **Other:** Python, C++
 
-## 📂 Featured Projects
+## 📂 Projects
 
 | Project | What it is | Tech |
 |---|---|---|
-| [E-Commerce Store](https://github.com/TusharAkgec/E-Commerce-Store) | Full-stack e-commerce application with product listings, cart management, and order tracking | TypeScript, React, REST APIs |
+| [E-Commerce Store](https://github.com/TusharAkgec/E-Commerce-Store) | Frontend for an e-commerce application with product listings, cart functionality, and order tracking | TypeScript, React, REST APIs |
 | [Task Manager](https://github.com/TusharAkgec/Task-Manager-App) | Task management application with add, edit, delete, and view features | React, JavaScript, REST APIs |
 | [Multimodal AI for Chest Diagnosis](https://github.com/TusharAkgec/Multimodal-disease-classification) | Team project that classifies chest diseases using X-ray images and patient data with 91% accuracy | Python, PyTorch, Streamlit |
+| [Pomodoro App](https://github.com/TusharAkgec/pomodoroApp) | JavaScript-based productivity timer using the Pomodoro technique | JavaScript |
 
 📄 **Research paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/11485739)
 
@@ -58,4 +52,3 @@ I'm looking for **Frontend / React Developer** roles.
 
 - Email: [tusharguptaa.dev@gmail.com](mailto:tusharguptaa.dev@gmail.com)
 - LinkedIn: [linkedin.com/in/tusharguptaadev](https://linkedin.com/in/tusharguptaadev)
-<!-- Add when ready: - Portfolio: [yourportfolio.vercel.app](https://yourportfolio.vercel.app) -->
