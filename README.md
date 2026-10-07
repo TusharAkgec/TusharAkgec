@@ -12,6 +12,7 @@
   <a href="mailto:tusharguptaa.dev@gmail.com">Email</a> ·
   <a href="https://linkedin.com/in/tusharguptaadev">LinkedIn</a> ·
   <a href="https://github.com/TusharAkgec">GitHub</a>
+  <!-- Add when ready: · <a href="https://YOUR-PORTFOLIO-LINK">Portfolio</a> -->
 </p>
 
 I build clean, responsive user interfaces with **React.js** and **JavaScript**. During my web developer internship, I improved UI rendering speed by about **30%** using memoization, lazy loading, and dynamic imports. I also co-authored an IEEE-published research paper on multimodal disease classification.
@@ -21,7 +22,7 @@ I'm looking for **Frontend / React Developer** roles.
 ## 🛠 Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,python,git,docker,linux" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,python,git,github,docker,linux" alt="Technology icons" />
 </p>
 
 - **Frontend:** JavaScript (ES6+), React.js, HTML5, CSS3, Tailwind CSS, Context API, Responsive Design
@@ -34,19 +35,12 @@ I'm looking for **Frontend / React Developer** roles.
 
 | Project | What it is | Tech |
 |---|---|---|
-| [E-Commerce Store](https://github.com/TusharAkgec/E-Commerce-Store) | Frontend for an e-commerce application with product listings, cart functionality, and order tracking | TypeScript, React, REST APIs |
-| [Task Manager](https://github.com/TusharAkgec/Task-Manager-App) | Task management application with add, edit, delete, and view features | React, JavaScript, REST APIs |
-| [Multimodal AI for Chest Diagnosis](https://github.com/TusharAkgec/Multimodal-disease-classification) | Team project that classifies chest diseases using X-ray images and patient data with 91% accuracy | Python, PyTorch, Streamlit |
-| [Pomodoro App](https://github.com/TusharAkgec/pomodoroApp) | JavaScript-based productivity timer using the Pomodoro technique | JavaScript |
+| [E-Commerce App (Frontend)](https://github.com/TusharAkgec/Mern-E-Commerce-Store) | React frontend for a full-stack e-commerce app: product listings, real-time cart, and order tracking | React, JavaScript, REST APIs |
+| [Task Manager (Frontend)](https://github.com/TusharAkgec/Task-Manager-App) | React interface for a task app with add, edit, delete, and view features | React, JavaScript, REST APIs |
+| [Multimodal AI for Chest Diagnosis](https://github.com/TusharAkgec/Multimodal-disease-classification) | Team project: deep learning model that classifies chest diseases from X-ray images and patient data (91% accuracy) | Python, PyTorch, Streamlit |
+| [Pomodoro App](https://github.com/TusharAkgec/pomodoroApp) | Productivity timer built with the Pomodoro technique | JavaScript |
 
 📄 **Research paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/11485739)
-
-## 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TusharAkgec&show_icons=true&theme=tokyonight&hide_border=true" alt="Tushar's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharAkgec&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
 
 ## 📫 Contact
 
